@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá👋! Eu sou "Geraldo Sense", Criador de conteúdo sobre programação e desenvolvimento de páginas web.
 
-<!--
-**geraldosense/geraldosense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  I’m currently working on Python, Html, CSS, Java script, C/C++
+-  I’m currently learning Programção em Html e C/C++
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+
+  <div align="center">
+  <a href="https://github.com/geraldosense">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geraldosense&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldosense&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
+
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Geraldo_JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Geraldo_React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Geraldo_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Geraldo_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Geraldo_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Geraldo_Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
