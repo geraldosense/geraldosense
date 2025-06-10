@@ -1,7 +1,4 @@
-## Olá👋! Eu sou "Geraldo Sense", Criador de conteúdo sobre programação e desenvolvimento de páginas web.
-
--  I’m currently working on Python, Html, CSS, Java script, C/C++
--  I’m currently learning Programção em Html e C/C++
+## Olá! Eu sou Geraldo Sense, Criador de conteúdo sobre programação e desenvolvimento de páginas web.
 
 <br clear="both">
 
