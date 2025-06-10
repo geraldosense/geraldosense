@@ -3,15 +3,11 @@
 -  I’m currently working on Python, Html, CSS, Java script, C/C++
 -  I’m currently learning Programção em Html e C/C++
 
-
-###
-
 <br clear="both">
 
 <h2 align="center">My Stats</h2>
 
 ###
-  ##
 
   <div align="center">
   <a href="https://github.com/geraldosense">
