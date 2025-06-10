@@ -4,6 +4,13 @@
 -  I’m currently learning Programção em Html e C/C++
 
 
+###
+
+<br clear="both">
+
+<h2 align="center">My Stats</h2>
+
+###
   ##
 
   <div align="center">
@@ -13,7 +20,18 @@
   </a>
 </div>
 
-##
+<br clear="both">
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geraldosense&radius=16&theme=cobalt&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h2 align="center">My tools</h2>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Geraldo_JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -21,9 +39,18 @@
   <img align="center" alt="Geraldo_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Geraldo_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Geraldo_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Geraldo_vscode"height="30" wudth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Geraldo_Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-##
+<p align="left"></p>
+
+###
+
+<br clear="both">
+
+<h2 align="center">My Social Networks</h2>
+
+###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
