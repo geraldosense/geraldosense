@@ -1,4 +1,4 @@
-## Olá! Eu sou Geraldo Sense, Criador de conteúdo sobre programação e desenvolvidor de páginas web.
+## Olá! Eu sou Geraldo Sense, Criador de conteúdo sobre programação e desenvolvimento de páginas web.
 
 <br clear="both">
 
