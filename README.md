@@ -10,16 +10,15 @@
     <img
       height="180em"
       src="https://github-readme-stats.vercel.app/api?username=geraldosense&show_icons=true&theme=dracula&hide_border=true"
+      alt="GitHub Stats"
     />
     <img
       height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldosense&layout=compact&theme=dracula&hide_border=true"
+      alt="Top Languages"
     />
   </a>
 </div>
-
-<br clear="both" />
-
 ###
 
 <div align="center">
